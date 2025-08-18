@@ -4,3 +4,4 @@ class Employee(BaseModel):
     name:str
     department:str
     age:int
+    gender:str
